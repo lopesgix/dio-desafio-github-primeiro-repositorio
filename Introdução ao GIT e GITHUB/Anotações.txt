@@ -1,3 +1,19 @@
 Link para download do Git: https://git-scm.com/downloads
 
 O Git bash é um terminal extendido para otimizar o uso do Git. 
+
+**** Comandos básicos do GIT para Windows:**
+
+- CD: Escolhe o diretório
+- TAB: Auto completar
+- Mkdir: Cria diretórios
+- Ctrl + L: Limpa o Git
+- Dir: Lista diretórios
+- ls -a: Mostra arquivos ocultos
+- Git Add: Adiciona novos arquivos ao GIT
+- Git Add . (ou*): Adiciona todos os novos arquivos
+- Git Init: Inicia o repositório
+- Git commit -m: Commit os arquivos
+- Git push origin master: Envia os arquivos ao Git hub
+- Git Status: Monitora 
+- MV: Move arquivos
